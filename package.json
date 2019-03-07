@@ -1,11 +1,11 @@
 {
-    "name": "NodeJS-Real-time-Todolist",
+    "name": "RealtimeTodoList",
     "version": "0.1.0",
     "description": "A simple Real-time Todolist application that uses socket.io",
-    "author": "Christophe Malo",
+    "author": "Jérôme Desseaux",
     "repository": {
         "type": "git",
-        "url": "https://github.com/ChristopheMalo/NodeJS-Real-time-Todolist.git"
+        "url": "https://github.com/JeromeDesseaux/nodejs_relatime_todolist.git"
     },
     "dependencies": {
         "ent": "~2.2.0",
